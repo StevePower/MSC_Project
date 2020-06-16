@@ -1,0 +1,14 @@
+Anaconda packages used in this project
+
+conda install -c conda-forge matplotlib
+conda install -c anaconda seaborn
+conda install -c anaconda six
+conda install -c anaconda py-xgboost
+conda install -c anaconda pandas
+conda install -c trentonoliphant datetime
+conda install -c anaconda scipy
+conda install -c conda-forge r-metrics
+conda install -c anaconda graphviz
+conda update --all
+
+Install these before 
